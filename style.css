@@ -1,0 +1,74 @@
+.navbar-brand img{
+    width: 150px;
+}
+.pad li{
+    padding: 0 12px;
+  
+}
+.active {
+    background: #21B573;
+    border-radius: 20px;
+    display:inline-block;
+}
+.nav-item span{
+    color: white;
+}
+.col-md-6 img{
+    width: 80%;
+   margin-left: 75px;
+}
+.mar{
+    margin-top: 40px;
+}
+.p-colr{
+    color: red;
+}
+.spn-colr span{
+    color: #21B573;
+}
+.spn-colr h1{
+    font-weight: 800;
+}
+.gray{
+    color: #5e5c5c;
+}
+button{
+    color: white;
+    border: none;
+    background: #21B573;
+    padding: 5px 20px;
+    border-radius: 15px;
+    font-size: 0.8rem;
+}
+
+.hero{
+    background: #F0FFF0;
+    height: 450px;
+    width: 100%;   
+}
+
+.middle p{
+    font-size: 10px;
+}
+.middle .col-md{
+    border-radius: 10px;
+}
+
+.card{
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px #dddcdc;
+    border: none;
+}
+.testimonial img{
+    width: 100px;
+}
+
+
+
+
+@media All and (max-width:768px){
+    .hero{
+        height: 620px;
+    }
+}
+
